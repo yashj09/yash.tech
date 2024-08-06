@@ -46,13 +46,13 @@ function App() {
           <Project 
             title="GTX Token and Sale Contracts" 
             tech="Solidity, OpenZeppelin, ERC-20" 
-            link="Link"
+            link="https://github.com/yashj09/ERC20-Token-Sale"
             description="Developed ERC-20 GTX Token contracts with governance and role-based access control. Implemented a dynamic token sale contract with configurable periods, pricing, and purchase limits."
           />
           <Project 
             title="Gemini GPT" 
             tech="React, JavaScript, Google Gemini API" 
-            link="Link"
+            link="https://github.com/yashj09/Gemini-GPT"
             description="Developed and deployed Gemini GPT, an open-source AI chatbot, garnering significant attention with over 100 active users. Designed and implemented a conversational AI architecture, leveraging Google’s Generative AI capabilities to provide insightful and engaging responses, boosting user satisfaction by 22 percent."
           />
         </Section>
